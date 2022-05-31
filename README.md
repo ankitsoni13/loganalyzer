@@ -13,3 +13,4 @@ Below are the task accomplished by the application :-
  Type and Host if applicable
  Alert (true if the event took longer than 4ms, otherwise false)
 
+Sample log file commited under /src/main/resource/input.txt
